@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-13": 351
+      "2024-09-13": 359
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://annet.kcsec.us",
     "icon": "https://icons.duckduckgo.com/ip3/annet.kcsec.us.ico",
     "slug": "kcsec",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 626,
-    "timeDay": 626,
-    "timeWeek": 626,
-    "timeMonth": 626,
-    "timeYear": 626,
+    "status": "up",
+    "uptime": "97.73%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "97.73%",
+    "time": 634,
+    "timeDay": 634,
+    "timeWeek": 634,
+    "timeMonth": 634,
+    "timeYear": 634,
     "dailyMinutesDown": {
-      "2024-09-13": 0
+      "2024-09-13": 8
     }
   }
 ]
