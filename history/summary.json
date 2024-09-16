@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-15": 591,
+      "2024-09-16": 79,
+      "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 793
     }
@@ -27,18 +28,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/annet.kcsec.us.ico",
     "slug": "kcsec",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 695,
-    "timeDay": 676,
-    "timeWeek": 695,
-    "timeMonth": 695,
-    "timeYear": 695,
-    "dailyMinutesDown": {
-      "2024-09-15": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 704,
+    "timeDay": 688,
+    "timeWeek": 704,
+    "timeMonth": 704,
+    "timeYear": 704,
+    "dailyMinutesDown": {}
   }
 ]
