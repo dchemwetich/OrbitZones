@@ -4,7 +4,7 @@ repo: OrbitZone # The name of this repository
 
 sites:
   - name: SimlawSeeds
-    url: https://simlaw.co.ke
+    url: http://simlaw.co.ke
   - name: kcsec
     url: https://annet.kcsec.us
 
