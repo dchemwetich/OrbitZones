@@ -1,7 +1,7 @@
 url: https://annet.kcsec.us
-status: up
-code: 200
-responseTime: 831
-lastUpdated: 2024-11-19T23:20:44.425Z
+status: down
+code: 503
+responseTime: 1324
+lastUpdated: 2024-11-20T15:32:53.634Z
 startTime: 2024-09-13T10:52:00.138Z
 generator: Upptime <https://github.com/upptime/upptime>
